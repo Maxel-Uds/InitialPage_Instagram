@@ -29,11 +29,11 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 50%;
+    width: 100%;
 }
 
 .instagram-phone img {
-    height: 50rem;
+    height: 500px;
 }
 
 .instagram-continue {
